@@ -1,4 +1,4 @@
-# agenda_contatos
+# Aplicativo Agenda de Contatos
 
 A new Flutter project.
 
